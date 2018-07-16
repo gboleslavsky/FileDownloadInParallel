@@ -18,9 +18,9 @@ Please provide a zip of the project folder with the build file and how to run it
 
 To run:
  unzip, 
- cd to folderUnzippedTo/src/main/scala
- sbt compile
+ cd to folderUnzippedTo/src/main/scala  
+ sbt compile 
  sbt run
 
-downloaded files will be in folderUnzippedTo/src/main/resources/downloaded-files
+Downloaded files will be in folderUnzippedTo/src/main/resources/downloaded-files
 
